@@ -729,6 +729,7 @@
   "Congratulations!": "Congratulations!",
   "You won a collectible!": "You won a collectible!",
   "Claim now": "Claim now",
+  "Claiming...": "Claiming...",
   "NFT in wallet": "NFT in wallet",
   "Trade in your NFT for CAKE, or just keep it for your collection.": "Trade in your NFT for CAKE, or just keep it for your collection.",
   "No NFTs to claim": "No NFTs to claim",
@@ -1463,5 +1464,6 @@
   "Audits": "Audits",
   "Careers": "Careers",
   "Dark mode": "Dark mode",
-  "Invalid pair": "Invalid pair"
+  "Invalid pair": "Invalid pair",
+  "You won points for joigning PancakeSwap during the first year of our journey!": "You won points for joigning PancakeSwap during the first year of our journey!"
 }
